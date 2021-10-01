@@ -1,0 +1,6 @@
+Just ((0 * 1) ** (CongB2( CongB2( (Sym (SqIsMult)) ) ) . CongB2( (Sym (Asso(*))) ) . CongB2( Comm(*) ) . (Sym (Asso(*))) . SqIsMult, (CongB2( Comm(*) ) . (Sym (Asso(*))) . CongB1( SqIsMult ) . Comm(*), CongB2( (Sym (SqIsMult)) ) . (Sym (Asso(*)))))
+
+
+-- NB x = 0, 1 = y, 2 = a -- probably easier just to let the refactoring tool handle the mapping
+-- Key to printed output:
+-- ErrorOr (f ** (Proof of Eqn 1, Proof of Eqn 2, Proof of Eqn 3))
